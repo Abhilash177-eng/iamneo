@@ -1,0 +1,111 @@
+.layer1 {
+    width: 100%;
+    height: 70px;
+    ;
+    background-color: #ffffff;
+}
+
+.hireimg {
+    max-width: 145px;
+    margin-left: 17%;
+    margin-top: 1%;
+}
+
+a {
+    color: #71979c;
+    background-color: transparent;
+}
+
+a:hover {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+.anchorclass {
+    margin-top: -1.3%;
+    text-decoration: none;
+    font-size: medium;
+}
+
+option {
+    text-decoration: none;
+    font-size: medium;
+    margin-top: -1.3%;
+    color: #71979c;
+    background-color: transparent;
+}
+
+.jumbotron {
+    background-color: #61B457;
+    width: 100%;
+    height: 780px;
+    display: flex;
+}
+
+.textcontent {
+    font-size: 50px;
+    line-height: 1.0;
+    margin-left: 18.7%;
+    font-family: 'Barlow', 'sans-serif';
+}
+
+h4 {
+    color: #ffffff;
+    line-height: 1.38;
+    font-weight: 900;
+    font-size: x-large;
+    font-family: 'Barlow', 'sans-serif';
+    margin-left: 18.8%;
+    margin-top: 2.2%;
+}
+
+p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.hs-input {
+    margin-right: 0 !important;
+    margin-right: 100% !important;
+    margin-left: 10%;
+    display: inline-block;
+    width: 90%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 22px;
+    color: #33475b;
+    border: 1 px solid #cbd6e2;
+    box-sizing: border-box;
+    -webkit-border-radius: 3 px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3 px;
+}
+
+.pill {
+    background-color: #61B457;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-top: -1.3%;
+    text-decoration: none;
+    font-size: medium;
+    width: 9%;
+    margin-left: 3%;
+}
+
+.dog {
+    margin-left: 10%;
+    margin-top: 15%;
+    max-width: 80%;
+
+}
